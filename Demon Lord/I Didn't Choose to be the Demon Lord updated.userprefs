@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CenaKilled.cs">
+    <Files>
+      <File FileName="Assets\Scripts\HealthManager.cs" Line="36" Column="23" />
+      <File FileName="Assets\Scripts\HomeworkScoreManager.cs" Line="14" Column="23" />
+      <File FileName="Assets\Scripts\CenaKilled.cs" Line="9" Column="12" />
+      <File FileName="Assets\Scripts\EnemyPatrol.cs" Line="51" Column="24" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cutscene2.cs" Line="73" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
